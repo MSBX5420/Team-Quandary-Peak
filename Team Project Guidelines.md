@@ -13,25 +13,25 @@
     - Your applications should shows horizontal scale (i.e. when we adding more nodes the cluster, the processing should be faster also)
 
 - **Timeline**
- - **Requirement phase (Due April 12th):** team discuss functional requirements and come up with requirement document to define what you want to accomplish. Things to do:
-    - **Connect:** connect team members through email. Create slack team channels.
-    - **Setup:** Join Github classroom (https://github.com/MSBX5420 (Links to an external site.)), join aws classroom (check your aws classroom to join) 
-    - **Discuss:** Generate one page (or more thorough) spec documents to layout functional and non-functional requirements etc.
-    - **Submit:** Create project Github repo inside Github classroom and check in the requirement spec document.
+  - **Requirement phase (Due April 12th):** team discuss functional requirements and come up with requirement document to define what you want to accomplish. Things to do:
+     - **Connect:** connect team members through email. Create slack team channels.
+     - **Setup:** Join Github classroom (https://github.com/MSBX5420 (Links to an external site.)), join aws classroom (check your aws classroom to join) 
+     - **Discuss:** Generate one page (or more thorough) spec documents to layout functional and non-functional requirements etc.
+     - **Submit:** Create project Github repo inside Github classroom and check in the requirement spec document.
 
- - **Design, Development and Test (Due April 25th)**
-    - Use Agile development to have several iterations of design, development and test.
-    - **Submit:** Check in your design doc and code to Github repo.
- - **Deployment (Due April 28th)**
-    - Deploy your program to a larger cluster.
- - **Presentation (Due April 28th)**
-    - Present your work in class
+  - **Design, Development and Test (Due April 25th)**
+     - Use Agile development to have several iterations of design, development and test.
+     - **Submit:** Check in your design doc and code to Github repo.
+  - **Deployment (Due April 28th)**
+     - Deploy your program to a larger cluster.
+  - **Presentation (Due April 28th)**
+     - Present your work in class
 - **Suggested DataSets**
- - COVID-19 datasets (such as https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26 (Links to an external site.))
- - Weather - (such as ftp://ftp.ncdc.noaa.gov/pub/data/gsod) (Links to an external site.)
+  - COVID-19 datasets (such as https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26 (Links to an external site.))
+  - Weather - (such as ftp://ftp.ncdc.noaa.gov/pub/data/gsod) (Links to an external site.)
 - **AWS environment**
- - **AWS classroom**. Everyone has $50 credit and you can create small cluster for prototype.
- - **Leeds AWS Cluster:** Leeds school created a AWS account for us. Attached is the key pair file. To ssh to the EMR master node (ssh -                           i ./Leed_HadoopKeypair.pem hadoop@ec2-52-13-183-139.us-west-2.compute.amazonaws.com)
+  - **AWS classroom**. Everyone has $50 credit and you can create small cluster for prototype.
+  - **Leeds AWS Cluster:** Leeds school created a AWS account for us. Attached is the key pair file. To ssh to the EMR master node (ssh -                           i ./Leed_HadoopKeypair.pem hadoop@ec2-52-13-183-139.us-west-2.compute.amazonaws.com)
 - **How to Score**
- - 50%. Activities to show your leadership and contribution: I will check your check in history in Github Repo. Your code review comments to others. Your slack channel messages etc.
- - 50%. Your project work will be also judged by other classmates during project presentation. (like what we did for class presentation). 
+  - 50%. Activities to show your leadership and contribution: I will check your check in history in Github Repo. Your code review comments to others. Your slack channel messages etc.
+  - 50%. Your project work will be also judged by other classmates during project presentation. (like what we did for class presentation). 
