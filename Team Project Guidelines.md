@@ -1,4 +1,4 @@
-##**The whole idea of the team project is to use what we learned in this course to solve some interesting and important problems. I will encourage you to define what is interesting and important from your business perspective. Team member may come from different background: if you are strong with business - try to contribute on business perspective, if you are strong in coding - try to contribute on coding.**
+**##The whole idea of the team project is to use what we learned in this course to solve some interesting and important problems. I will encourage you to define what is interesting and important from your business perspective. Team member may come from different background: if you are strong with business - try to contribute on business perspective, if you are strong in coding - try to contribute on coding.**
 
 - ###**Team link (Links to an external site.):** Teams are randomly formed - To work with any type of person in a team is an important ability.
 - ###**Project requirements**
