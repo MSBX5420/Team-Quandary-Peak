@@ -5,5 +5,5 @@ Team Members:
 - Qingdi Xiao
 - Wen Huang
 - Wenbin Yang
-- Yuxinag Wang
+- Yuxiang Wang
 
