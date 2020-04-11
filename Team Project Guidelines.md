@@ -4,7 +4,7 @@
 - **Project requirements**
   - **Dataset**: Use suggested datasets or any large scale dataset
   - **Environment**: Use AWS EMR and other AWS services
-  - **Programming Language**: Use Spark with R
+  - **Programming Language**: Use Spark with Python
   - **Functional Requirements**
     - **Ingest**: Ingest dataset to Hdfs or S3 and save as Parquet format.
     - **Basic**： statistics and analysis of the ingested dataset and display (use Jupyter notebook or other type of visualization)
