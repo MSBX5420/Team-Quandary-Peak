@@ -1,15 +1,15 @@
-**##The whole idea of the team project is to use what we learned in this course to solve some interesting and important problems. I will encourage you to define what is interesting and important from your business perspective. Team member may come from different background: if you are strong with business - try to contribute on business perspective, if you are strong in coding - try to contribute on coding.**
+### The whole idea of the team project is to use what we learned in this course to solve some interesting and important problems. I will encourage you to define what is interesting and important from your business perspective. Team member may come from different background: if you are strong with business - try to contribute on business perspective, if you are strong in coding - try to contribute on coding.
 
-- ###**Team link (Links to an external site.):** Teams are randomly formed - To work with any type of person in a team is an important ability.
-- ###**Project requirements**
-  - ###**Dataset**: Use suggested datasets or any large scale dataset
-  - ###**Environment**: Use AWS EMR and other AWS services
-  - ###**Programming Language**: Use Spark with Python
-  - ###**Functional Requirements**
-    -Ingest: Ingest dataset to Hdfs or S3 and save as Parquet format.
-    -Basic statistics and analysis of the ingested dataset and display (use Jupyter notebook or other type of visualization)
-    -Others: You guys to define what do you want to achieve in requirement phase.
- Performance Requirements
+- **Team link (Links to an external site.):** Teams are randomly formed - To work with any type of person in a team is an important ability.
+- **Project requirements**
+  - **Dataset**: Use suggested datasets or any large scale dataset
+  - **Environment**: Use AWS EMR and other AWS services
+  - **Programming Language**: Use Spark with Python
+  - **Functional Requirements**
+   - Ingest: Ingest dataset to Hdfs or S3 and save as Parquet format.
+   - Basic statistics and analysis of the ingested dataset and display (use Jupyter notebook or other type of visualization)
+   - Others: You guys to define what do you want to achieve in requirement phase.
+ - **Performance Requirements**
         Your applications should shows horizontal scale (i.e. when we adding more nodes the cluster, the processing should be faster also)
 -Timeline
     Requirement phase (Due April 12th): team discuss functional requirements and come up with requirement document to define what you want to accomplish. Things to do:
