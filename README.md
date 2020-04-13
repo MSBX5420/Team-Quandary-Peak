@@ -4,6 +4,6 @@ Team Members:
 - Candice Chuang
 - Qingdi Xiao
 - Wen Huang
-- Wenbin Yang
+- Wenbin Yang (https://github.com/Wenbin-Yang)
 - Yuxiang Wang
 
