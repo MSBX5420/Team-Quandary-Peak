@@ -42,4 +42,4 @@ In response to the COVID-19 pandemic, the White House and a coalition of leading
 
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/MSBX5420/Team-Quandary-Peak/master
+:target: https://mybinder.org/v2/gh/MSBX5420/Team-Quandary-Peak/master
