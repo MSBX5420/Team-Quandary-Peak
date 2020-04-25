@@ -40,4 +40,4 @@ This dataset has details information from 50 US states and the District of Colum
 - 3.	COVID-19 Open Research Dataset Challenge (CORD-19)( https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 51,000 scholarly articles, including over 40,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/msbx5420-team-quandary-peak-08aln4es/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MSBX5420/Team-Quandary-Peak/master)
