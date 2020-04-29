@@ -2,7 +2,7 @@
 
 ## ABSTRACT
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).The disease was first identified in December 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic. Common symptoms include fever, cough and shortness of breath. Other symptoms may include fatigue, muscle pain, diarrhoea, sore throat, loss of smell and abdominal pain. The time from exposure to onset of symptoms is typically around five days, but may range from two to fourteen days. While the majority of cases result in mild symptoms, some progress to viral pneumonia and multi-organ failure. As of April 12, 2020, more than 1.8 million cases of COVID-19 have been reported in 210 countries and territories, resulting in more than 112,000 deaths. More than 415,000 people have recovered, although there may be a possibility of reinfection. Specifically, in the US, more than 549,000 cases have been reported, more than 32,000 people have recovered, while still resulting in more than 21,000 deaths. In Colorado, 6,893 cases have been reported and 274 deaths have happened. 
-To better understand COVID-19 spreading in the past and the future in the United States, the project compared the outbreak among serious regions and the overall situation in the United States. We integrated both statistical aspect (predicting models) and texting mining technique. 
+To better understand COVID-19 spreading in the past and the future in the United States, the project compared the outbreak among serious regions and the overall situation in the United States. We integrated both statistical aspect (predicting models) and texting mining technique.<br>
 ![Image](https://github.com/MSBX5420/Team-Quandary-Peak/blob/master/Docs/Purpose.png)
 
 ## Datasets
@@ -32,18 +32,18 @@ Uploading the datasets from local to EMR Cluster, then transform to Amazon S3 Bu
 ## Code Reviewing
 ### Text Mining
 - [Topic Model](https://github.com/MSBX5420/Team-Quandary-Peak/tree/master/Text%20Mining/Topic%20Modeling)
- - We used “tmtoolkit” and “nltk” packages to build our model. Moreover, we combined all text into one dictionary and set up the “stopwords”, “punkt”, “averaged_perceptron_tagger”, and “wordnet” for directory.  Additionally, we put the texts into document term matrix. Finally, we used “LDA TOPIC MODL” to extract top 16 models over all texts.
+    - We used “tmtoolkit” and “nltk” packages to build our model. Moreover, we combined all text into one dictionary and set up the “stopwords”, “punkt”, “averaged_perceptron_tagger”, and “wordnet” for directory.  Additionally, we put the texts into document term matrix. Finally, we used “LDA TOPIC MODL” to extract top 16 models over all texts.
 - [Word Cloud](https://github.com/MSBX5420/Team-Quandary-Peak/tree/master/Text%20Mining/Word%20Count)
- - We generated a word cloud for all news in the dataset and several GIFs for daily news word cloud.
+    - We generated a word cloud for all news in the dataset and several GIFs for daily news word cloud.<br>
  ![Image](https://github.com/MSBX5420/Team-Quandary-Peak/blob/master/Text%20Mining/Word%20Count/freq_word_plot_1.gif)
 ### [Visualization](https://github.com/MSBX5420/Team-Quandary-Peak/tree/master/Data%20Visualization)
- - We used Data Visualization to analyze the current situitations of U.S.
+    - We used Data Visualization to analyze the current situitations of U.S.<br>
   ![Image](https://github.com/MSBX5420/Team-Quandary-Peak/blob/master/Data%20Visualization/Plots/Apr-27-2020%2014-29-20.gif)
 ### Predictive Modeling 
 - [Time Series](https://github.com/MSBX5420/Team-Quandary-Peak/tree/master/Time%20Series)
- - We use time series to better understand COVID 19 spreading trends in the past (before 4/10/2020) and future (after 4/10/2020).
+    - We use time series to better understand COVID 19 spreading trends in the past (before 4/10/2020) and future (after 4/10/2020).
 - [Random Forest](https://github.com/MSBX5420/Team-Quandary-Peak/tree/master/Random%20Forest)
- - We used Random Forest to the variables which has the most effects of COVID-19. 
+    - We used Random Forest to the variables which has the most effects of COVID-19. 
 
 
 ## Conclusion and Suggestion<br>
